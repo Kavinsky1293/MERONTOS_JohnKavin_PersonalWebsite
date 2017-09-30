@@ -9,7 +9,7 @@
 <style>
 #nav {
 	line-height:30px;
-	background-color: skyblue;
+	
 	height:45px;
 	width:1890px;
 	float left:left;
@@ -17,7 +17,6 @@
 	font-size:22px;
 	font: 22px arial;
 	line-height: 45px;
-	font-style: oblique;
 	word-spacing:50px;
 	text-align: center;
 }
@@ -35,27 +34,26 @@
 	font-size:22px;
 
 }
-div{
-	width: 35px;
-	height: 5px;
-	background-color: black;
-	margin: 8px 0;
-}
 
 img{
 	border-radius: 100%;
 	display: block;
 	margin: auto;
 	width: 15%;
+	clip: rect(0px,60px,200px,0px);
 }
 body{
-	background-color: paleturquoise;
+	background-image: url("background.jpg");
+    
 
 }
   p {
-  	background-color: white;
+  	
   	padding-left: 55px;
-  	overflow: scroll;
+  	overflow: auto;
+
+  	
+
 
   }
   
@@ -64,7 +62,7 @@ body{
   	text-align: center;
   	font-size: 25px;
   	font-style: normal;
-  	background-color: paleturquoise;
+  
 
   }
   
@@ -98,6 +96,8 @@ body{
 	<img src = "johnkavin.jpg" alt = "Alignment" align = "center">
 
 
+
+
 <p> Hi! Just call me Kavin for short. 24 years old and still studying.<br>
 	I am a person of ... <br>
 
@@ -106,11 +106,24 @@ body{
 	focus <br>
 	creative <br>
 	hard working <br>
+	kind<br>
+	unique<br>
+	graceful<br>
+	smart?<br>
+	compassionate <br>
+	awesome <br>
+	adorable <br>
+	postive<br>
+	strong?<br>
+	joker O.o <br>
+	thoughtful <br>
+	forgetful sometimes<br>
 	honest <br>
 	reliable <br>
 	independent <br>
 	lovable <br>
 	LEGENDARY! <br>
+
 
 
 	 </p>
