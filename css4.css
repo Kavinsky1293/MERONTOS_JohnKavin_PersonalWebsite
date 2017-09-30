@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>MERONTOS_JohnKavin_Personal Website</title>
+
+
+
+<style>
+#nav {
+	line-height:30px;
+	background-color: skyblue;
+	height:45px;
+	width:1890px;
+	float left:left;
+	padding: 5px;
+	font-size:22px;
+	font: 22px arial;
+	line-height: 45px;
+	font-style: oblique;
+	word-spacing:50px;
+	text-align: center;
+}
+
+
+#footer
+{
+	background-color:steelblue;
+	color: white;
+	height:55px;
+	width:1900px;
+	clear: both;
+	text-align: center;
+	padding: 5px;
+	font-size:22px;
+
+}
+div{
+	width: 35px;
+	height: 5px;
+	background-color: black;
+	margin: 8px 0;
+}
+
+img{
+	border-radius: 100%;
+	display: block;
+	margin: auto;
+	width: 15%;
+}
+body{
+	background-color: paleturquoise;
+}
+  p {
+  	background-color: white;
+  }
+  p.header {border-style: solid;}
+  
+  .header {
+  	text-align: center;
+  	border: 15px solid white;
+  	font-size: 25px;
+  	font-style: normal;
+  }
+  
+  
+
+
+}
+</style>
+</head>
+
+
+<body>
+<div></div>
+<div></div>
+<div></div>
+
+<p class= "header"><b> HI! I'm Kavin! Welcome to my World.<b></p>
+
+	<div id="nav">
+		Home
+		About
+		Work
+		Photos
+		Videos
+		Projects
+		Contact
+	</div>
+
+	
+
+	<img src = "johnkavin.jpg" alt = "Alignment" align = "right">
+
+
+
+	
+
+
+    <div id="footer">
+    	"I'm an idealist without illusions" -JFK
+    </div>
+
+
+
+
+
+
+
+
+
+</body>
+
+
+
+
+
+</html>
