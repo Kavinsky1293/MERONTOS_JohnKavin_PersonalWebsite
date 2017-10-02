@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>MERONTOS_JohnKavin_Personal Website</title>
+
+
+
+<style>
+#nav {
+	line-height:30px;
+	
+	height:45px;
+	width:1890px;
+	float left:left;
+	padding: 5px;
+	font-size:22px;
+	font: 22px arial;
+	line-height: 45px;
+	word-spacing:50px;
+	text-align: center;
+}
+
+
+#footer
+{
+	background-color:steelblue;
+	color: solid black;
+	height:55px;
+	width:1900px;
+	clear: both;
+	text-align: center;
+	padding: 5px;
+	font-size:22px;
+
+}
+
+img{
+	border-radius: 100%;
+	display: block;
+	margin: auto;
+	width: 15%;
+	clip: rect(0px,60px,200px,0px);
+}
+
+    <table width="100%" border ="0">
+    <tr>
+    <td colspan ="2"bgcolor="steelblue">
+    <center>
+    <h1>Hi! Im Kavin!</h1>
+    </center>
+    </td>
+    </tr>
+
+
+  p {
+  	
+  	padding-left: 55px;
+  	overflow: auto;
+
+
+  	
+
+
+  }
+  
+  
+  .header {
+  	text-align: center;
+  	font-size: 25px;
+  	font-style: normal;
+  
+
+  }
+  
+  
+
+
+}
+</style>
+</head>
+
+
+<body>
+<div></div>
+<div></div>
+<div></div>
+
+
+
+	<div id="nav">
+		Home
+		About
+		Work
+		Photos
+		Videos
+		Projects
+		Contact
+	</div>
+
+	
+
+	<img src = "johnkavin.jpg" alt = "Alignment" align = "center">
+
+
+
+
+<p> Hi! Just call me Kavin for short. 24 years old and still studying.<br>
+	I am a person of ... <br>
+
+	sporty <br>
+	motivated <br>
+	focus <br>
+	creative <br>
+	hard working <br>
+	kind<br>
+	unique<br>
+	graceful<br>
+	smart?<br>
+	compassionate <br>
+	awesome <br>
+	adorable <br>
+	postive<br>
+	strong?<br>
+	joker O.o <br>
+	thoughtful <br>
+	forgetful sometimes<br>
+	honest <br>
+	reliable <br>
+	independent <br>
+	lovable <br>
+	LEGENDARY! <br>
+
+
+
+	 </p>
+
+
+	
+
+
+    <div id="footer">
+    	"If I where to describe myself in one word, a new word should be made." -JKM
+    </div>
+
+
+
+
+
+
+
+
+
+</body>
+
+
+
+
+
+</html>
