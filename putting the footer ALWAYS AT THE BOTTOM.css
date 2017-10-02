@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>MERONTOS_JohnKavin_Personal Website</title>
+
+
+
+<style>
+#nav {
+	line-height:30px;
+	background-color:steelblue;
+	height:45px;
+	width:1890px;
+	float left:left;
+	padding: 5px;
+	font-size:22px;
+	font: 22px arial;
+	line-height: 45px;
+	word-spacing:50px;
+	text-align: center;
+}
+
+
+#footer
+{
+	background-color:steelblue;
+	color: solid black;
+	height:55px;
+	width:100%;
+	bottom:0;
+	clear: both;
+	text-align: center;
+	padding: 5px;
+	font-size:22px;
+	position: absolute;
+
+
+}
+
+
+img{
+	border-radius: 100%;
+	display: block;
+	margin: auto;
+	width: 15%;
+	clip: rect(0px,60px,200px,0px);
+}
+h2{
+	text-align: center;
+}
+h4
+{
+	text-align: center;
+}
+body{
+	background-image: url("background.jpg");
+    
+
+}
+
+div {
+	width: 35px;
+	height: 5px;
+	background-color: darkblue;
+	margin: 6px;
+}
+ 
+
+a:link {
+    color: green;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:visited {
+    color: pink;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:hover {
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+}
+
+</style>
+</head>
+
+
+<body>
+<div></div>
+<div></div>
+<div></div>
+
+<h2><b> John Kavin Merontos<b></h2>
+	<h4>IT Student</h4> 
+
+	<div id="nav">
+		Home
+		About
+		Work
+		Photos
+		Videos
+		Projects
+		Contact
+	</div>
+
+	
+
+	<img src = "johnkavin.jpg" alt = "Alignment" align = "center">
+<div id ="links">
+
+
+<a href="http://www.greenwich.com.ph/pizza-thins/" target="_blank">work</a><br>
+
+
+	
+
+
+    <div id="footer">
+    	"If I where to describe myself in one word, a new word should be made." -JKM
+    </div>
+
+
+
+
+
+
+
+
+
+</body>
+
+
+
+
+
+</html>
