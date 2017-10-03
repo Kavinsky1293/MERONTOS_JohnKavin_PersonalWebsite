@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>MERONTOS_JohnKavin_Personal Website</title>
+
+
+
+<style>
+#nav {
+	line-height:30px;
+	background-color: darkgray;
+	height:45px;
+	width:1890px;
+	float left:left;
+	padding: 5px;
+	font-size:22px;
+	font: 22px arial;
+	line-height: 45px;
+	word-spacing:50px;
+	text-align: center;
+}
+
+
+#footer
+{
+	background-color:darkgray;
+	color: black;
+	height:55px;
+	width:100%;
+	bottom:0;
+	clear: both;
+	text-align: center;
+	padding: 5px;
+	font-size:22px;
+	position: absolute;
+
+;
+
+
+
+}
+
+
+img{
+	border-radius: 100%;
+	display: block;
+	margin: auto;
+	width: 400px;
+	clip: rect(0px,60px,200px,0px);
+
+}
+h2{
+	line-height:40px;
+	
+	height:45px;
+	width:450px;
+	text-align: left;
+	font-family: verdana;
+	margin-left: 10px;
+	font-size:47px;
+	padding-left: 20px;
+	border: 5px solid black;
+	padding: 10px;
+	margin: 30px;
+	width: 600px;
+	color:darkviolet;
+	text-align: center;
+	border-radius: 15px 50px 30px 5px;
+	background-color: darkgray;
+}
+h4
+{
+	text-align: center;
+	margin-left: 1px;
+	font-size:25px;
+	padding-left: 10px;
+	color: black;
+	font-family: verdana;
+	border: 5px solid violet;
+	padding: 10px;
+	margin: 30px;
+	width: 175px;
+	background-color:gray;
+	border-radius: 15px 50px 30px;
+}
+
+
+div {
+	width: 35px;
+	height: 5px;
+	background-color: black;
+	margin: 6px;
+}
+ 
+
+a:link {
+    color: green;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:visited {
+    color: blue;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:hover {
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+}
+body{
+	background-image: url("background2.jpg");
+	opacity:1;
+	filter: alpha(opacity=50);
+	background-size: 100px;
+	background-image: transparent;
+
+}
+p{
+	padding-left: 40px;
+	text-align: center;
+	color: lightcyan;
+	font-size: 74px;
+}
+</style>
+</head>
+
+
+<body>
+<div></div>
+<div></div>
+<div></div>
+
+<h2><b> John Kavin Merontos<b></h2>
+	<h4>IT Student</h4>
+	
+
+	<div id="nav">
+		<a href="file:///C:/Users/User/Desktop/link%20in%20my%20navigation%20bar.html">Home</a>
+		<a href="https://github.com/settings/profile">About</a>
+		<a href="http://www.usep.edu.ph/" target="_blank">School</a>
+		<a href="http://www.greenwich.com.ph/pizza-thins/" target="_blank">Work</a>
+		<a href="https://www.facebook.com/john.kavin.16/photos_albums?lst=100001568621908%3A100001568621908%3A1506937819" target="_blank">Photos</a>
+		<a href="https://www.youtube.com/channel/UCLbNHyIJGs9tQtkVrKupN-A">Videos</a>
+	</div>
+
+	
+
+	<img src = "johnkavin.jpg" alt = "Alignment" align = "left">
+
+	<p>HELLO. MY NAME IS KAVIN.<br>
+	DESIGNER    /      DEVELOPER<br>
+	FROM USEP, DAVAO</p>
+
+
+
+
+
+	
+
+
+    <div id="footer">
+    <p><a href="https://www.computerhope.com/"><img src="MyResume.jpg"></a></p>
+
+
+
+    </div>
+
+
+
+
+
+
+
+
+
+</body>
+
+
+
+
+
+</html>
