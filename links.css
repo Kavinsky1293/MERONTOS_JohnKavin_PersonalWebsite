@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>MERONTOS_JohnKavin_Personal Website</title>
+
+
+
+<style>
+#nav {
+	line-height:30px;
+	background-color: darkgray;
+	height:45px;
+	width:1890px;
+	float left:left;
+	padding: 5px;
+	font-size:22px;
+	font: 22px verdana;
+	line-height: 45px;
+	word-spacing:50px;
+	text-align: center;
+     
+	border: 5px solid gray;
+	border-radius: 25px;
+
+
+}
+
+
+#footer
+{
+	background-color:darkgray;
+	color: black;
+	height:75px;
+	width:100%;
+	bottom:0;
+	clear: both;
+	text-align: center;
+	text-shadow: 2px 2px black;
+	padding: 5px;
+	font-size:22px;
+	position: absolute;
+
+
+
+
+
+}
+
+
+img{
+	border-radius: 100%;
+	display: block;
+	margin: auto;
+	width: 400px;
+	clip: rect(0px,60px,200px,0px);
+
+}
+h2{
+	line-height:40px;
+	text-shadow: 4px 3px black;
+	height:45px;
+	width:450px;
+	text-align: left;
+	font-family: verdana;
+	margin-left: 10px;
+	font-size:47px;
+	padding-left: 20px;
+	border: 5px solid black;
+	padding: 10px;
+	margin: 30px;
+	width: 600px;
+	color:darkviolet;
+	text-align: center;
+	border-radius: 15px 50px 30px 5px;
+	background-color: darkgray;
+}
+h4
+{
+	text-align: center;
+
+	margin-left: 1px;
+	font-size:25px;
+	padding-left: 10px;
+	color: black;
+	font-family: verdana;
+	border: 5px solid violet;
+	padding: 10px;
+	margin: 30px;
+	width: 175px;
+	background-color:gray;
+	border-radius: 15px 50px 30px;
+}
+h1{
+	padding-left: 40px;
+	text-align: center;
+	text-shadow: 4px 4px black;
+	color: lightcyan;
+	font-size: 60px;
+	font-family: verdana;
+
+
+}
+
+
+
+ 
+
+a:link {
+    color: green;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:visited {
+    color: blue;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:hover {
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+}
+body{
+	background-image: url("background2.jpg");
+	opacity:1;
+	filter: alpha(opacity=50);
+	background-size: 100px;
+	background-image: transparent;
+
+}
+p{
+	padding-left: 40px;
+	text-align: center;
+	color: lightcyan;
+	font-size: 25px;
+	font-family: verdana;
+}
+base href = "http://"
+</style>
+</head>
+
+
+
+<h2><b> John Kavin Merontos<b></h2>
+	<h4>IT Student</h4>
+	
+
+	<div id="nav">
+		<a href="file:///C:/Users/User/Desktop/link%20in%20my%20navigation%20bar.html">Home</a>
+		<a href="https://github.com/settings/profile">About</a>
+		<a href="http://www.usep.edu.ph/" target="_blank">School</a>
+		<a href="http://www.greenwich.com.ph/pizza-thins/" target="_blank">Work</a>
+		<a href="https://www.facebook.com/john.kavin.16/photos_albums?lst=100001568621908%3A100001568621908%3A1506937819" target="_blank">Photos</a>
+		<a href="https://www.youtube.com/channel/UCLbNHyIJGs9tQtkVrKupN-A">Videos</a>
+	</div>
+
+	
+
+	<img src = "johnkavin.jpg" alt = "Alignment" align = "left">
+
+	<h1>HELLO. MY NAME IS KAVIN.<br>
+	DESIGNER    /      DEVELOPER<br>
+	email -> johndvin05@gmail.com</h1>
+
+	<form>
+		Email: <input type="email" title="Enter valid E-mmail">
+		<input type ="submit">
+	</form>
+
+
+
+
+
+	
+
+
+    <div id="footer">
+    	<p>RESUME</p>
+    
+    	<iframe src="MyResume.jpg" width="720" height="350" align="center"> </iframe>
+
+    	
+
+
+
+    </div>
+<div style="text-align:center">
+<a href="https://webdesign.tutsplus.com/" target="_blank">tutorial links</a>
+</div>
+
+
+
+
+
+
+
+
+</body>
+
+
+
+
+
+</html>
