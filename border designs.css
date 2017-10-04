@@ -1,0 +1,256 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>MERONTOS_JohnKavin_Personal Website</title>
+<link el="stylesheet" type="text/css" href="style.css">
+</head>
+
+
+<style>
+#nav {
+	line-height:30px;
+	background-color: steelblue;
+	height:45px;
+	width:1890px;
+	float left:left;
+	padding: 5px;
+	font-size:22px;
+	font: 22px verdana;
+	line-height: 45px;
+	word-spacing:50px;
+	text-align: center;
+    border: 5px solid white;
+	border-radius: 25px;
+
+
+}
+
+
+#footer
+{
+	background-color:steelblue;
+	color: black;
+	height:75px;
+	width:100%;
+	bottom:0;
+	clear: both;
+	text-align: center;
+	text-shadow: 2px 2px black;
+	padding: 5px;
+	font-size:22px;
+	position: absolute;
+	border: 5px solid white;
+
+
+
+
+
+}
+
+
+img{
+	border-radius: 100%;
+	display: block;
+	margin: auto;
+	width: 400px;
+	clip: rect(0px,60px,200px,0px);
+
+}
+h2{
+	line-height:40px;
+	text-shadow: 4px 3px black;
+	height:45px;
+	width:450px;
+	text-align: left;
+	font-family: verdana;
+	margin-left: 10px;
+	font-size:47px;
+	padding-left: 20px;
+	border: 5px solid black;
+	padding: 10px;
+	margin: 30px;
+	width: 600px;
+	color:darkviolet;
+	text-align: center;
+	border-radius: 15px 50px 30px 5px;
+	background-color: darkgray;
+}
+h4
+{
+	text-align: center;
+
+	margin-left: 1px;
+	font-size:25px;
+	padding-left: 10px;
+	color: black;
+	font-family: verdana;
+	border: 5px solid black;
+	padding: 10px;
+	margin: 30px;
+	width: 175px;
+	background-color:darkgray;
+	border-radius: 15px 50px 30px;
+}
+h1{
+	padding-left: 40px;
+	text-align: center;
+	text-shadow: 4px 4px white;
+	color: steelblue;
+	font-size: 60px;
+	font-family: verdana;
+	border-color: black;
+
+
+}
+
+
+
+ 
+
+a:link {
+    color: black;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:visited {
+    color: blue;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:hover {
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+}
+body{
+
+	opacity:1;
+	filter: alpha(opacity=50);
+	background-size: cover;
+	background-image: transparent;
+    background:
+    linear-gradient(
+    	rgba(0, 0, 255, 0.3),
+    	rgba(0, 184,255,0.45)
+    
+    	)
+}
+p{
+	padding-left: 40px;
+	text-align: center;
+	color: lightcyan;
+	font-size: 25px;
+	font-family: verdana;
+}
+div.gallery {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 180px;
+}
+
+div.gallery:hover {
+    border: 1px solid #777;
+}
+
+div.gallery img {
+    width: 100%;
+    height: auto;
+}
+
+div.desc {
+    padding: 15px;
+    text-align: center;
+}
+
+</style>
+</head>
+
+
+
+<h2><b> John Kavin Merontos<b></h2>
+	<h4>IT Student</h4>
+	
+
+	<div id="nav">
+		<a href="file:///C:/Users/User/Desktop/link%20in%20my%20navigation%20bar.html">Home</a>
+		<a href="https://github.com/settings/profile">About</a>
+		<a href="http://www.usep.edu.ph/" target="_blank">School</a>
+		<a href="http://www.greenwich.com.ph/pizza-thins/" target="_blank">Work</a>
+		<a href="ako.html" target="_blank">Photos</a>
+		<a href="https://www.youtube.com/channel/UCLbNHyIJGs9tQtkVrKupN-A">Videos</a>
+	</div>
+
+	
+
+	<img src = "johnkavin.jpg" alt = "Alignment" align = "left">
+
+	<h1>HELLO. MY NAME IS KAVIN.<br>
+	DESIGNER    /      DEVELOPER<br>
+	email -> johndvin05@gmail.com</h1>
+
+	<form>
+		Email: <input type="email" title="Enter valid E-mmail">
+		<input type ="submit">
+	</form>
+
+
+
+
+
+<div class="gallery">
+  <a target="_blank" href="johnkavin.jpg">
+    <img src="johnkavin.jpg" alt="Fjords" width="300" height="200">
+  </a>
+  <div class="desc"></div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="m.jpg">
+    <img src="m.jpg" alt="Forest" width="300" height="200">
+  </a>
+  <div class="desc"></div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="j.jpg">
+    <img src="j.jpg" alt="k.jpg" width="300" height="200">
+  </a>
+  <div class="desc"></div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="k.jpg">
+    <img src="k.jpg" alt="Mountains" width="300" height="200">
+  </a>
+  <div class="desc"></div>
+</div>
+
+	
+
+
+    <div id="footer">
+    	<p>RESUME</p>
+    
+    	<iframe src="MyResume.jpg" width="720" height="350" align="center"> </iframe>
+
+    	
+
+
+
+    </div>
+<div style="text-align:center">
+<a href="https://webdesign.tutsplus.com/" target="_blank">tutorial links</a>
+</div>
+
+
+
+
+</body>
+
+
+
+
+
+</html>
